@@ -1,0 +1,19 @@
+{
+  "name": "inbox",
+  "version": "0.0.1",
+  "description": "Unofficial Inbox for Mac",
+  "main": "src/main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deviavir/inbox-web"
+  },
+  "bugs": {
+    "url": "https://github.com/deviavir/inbox-web/issues"
+  },
+  "author": "Chase Sillevis <chase@sillevis.net> (https://github.com/deviavir)",
+  "license": "MIT",
+  "atomShellVersion": "0.23.0",
+  "dependencies": {
+    "bluebird": "^2.9.24"
+  }
+}
