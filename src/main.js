@@ -12,8 +12,8 @@ var mainWindow = null;
 // App
 app.on('ready', function () {
   mainWindow = new BrowserWindow({
-    width: 800,
-    height: 600,
+    width: 1024,
+    height: 786,
     frame: false,
     resizable: false,
     'web-preferences': {
