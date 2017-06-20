@@ -1,5 +1,7 @@
 # Inbox for Mac
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/DeviaVir/inbox-web.svg)](https://greenkeeper.io/)
+
 This is a 5-minute experiment to make an **unofficial** Mac App for Inbox. 
 
 > Works for me, may work for you :metal: 
